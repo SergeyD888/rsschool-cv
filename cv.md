@@ -12,7 +12,7 @@
 Currently I am actively engaged in improving the level of English 
 and Java development. 
 
-================================================================
+=================================================================
 
 ### Skills:
 
